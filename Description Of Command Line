@@ -10,3 +10,6 @@
 9 - Eighth To open Directly of cmd => C:\User\pc cd Desktop
 10- ninth To Clear All cmd => C:\User\pc\Desktop cls
 11 - Message help C:\User\pc\Desktop ipconfig /?
+12 - To Create File in Folder C:\User\pc\Desktop touch text.css
+13 - To Create File in Folder C:\User\pc\Desktop echo text.js
+
