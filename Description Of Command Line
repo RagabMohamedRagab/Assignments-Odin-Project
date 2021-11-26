@@ -4,4 +4,8 @@
 3 - Second Remove Directly => C:\User\pc\Desktop rmdir [Name Of Directly]
 4 - Know of Contains of Directly =>  C:\User\pc\Desktop dir
 5 - Third To Move File  => C:\User\pc\Desktop move [target] [here]
-6 - fiveth to copy file => C:\User\pc\Desktop copy [target] [here]
+6 - Fiveth to copy file => C:\User\pc\Desktop copy [target] [here]
+7 - Fourth to display data => C:\User\pc\Desktop [Name of data] Like image.png
+8 - Sixth To change color of Cmd => C:\User\pc\Desktop color 07 [Any Color]
+9 - Eighth To open Directly of cmd => C:\User\pc cd Desktop
+10- ninth To Clear All cmd => C:\User\pc\Desktop cls
