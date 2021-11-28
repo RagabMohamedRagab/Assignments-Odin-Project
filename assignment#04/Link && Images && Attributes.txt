@@ -1,0 +1,18 @@
+1 -  What element is used to create a link?
+  - Anchor <a>Anchor</a>
+2 - What is an attribute?
+  - That is used for Adding Provide information to elements.
+3 - What attribute tells links where to go to?
+  - it is href attribute <a href="www.google.com">Googl</a>
+4 - What is the difference between an absolute and relative link?
+   - Relative => jump in page in your website
+   - absolute => jump in page in internet (outside of your project).
+5 - What element is used to create an image?
+ - it is img <img/>
+6 - What two attributes do images always need to have?
+ - it is src="" <img src="img.PNG "/>
+7- How do you access a parent directory in a filepath?
+  - ./ or / or ~/ The same Level
+  - ../ outside from File .
+ 8- What are the four main image formats that you can use for images on the web?
+   - PNG ,JPG,SVG.
