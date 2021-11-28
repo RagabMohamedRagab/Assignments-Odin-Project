@@ -1,1 +1,47 @@
 1 - What is Git ?
+- it is free and open Source.
+- Distribute version control system (VCS) 
+- Tracking source code changes.
+- allows multi Developers To work together at the same project and manage it.
+2- What is GitHup ?
+- it online server hosts of your project.
+- Can access Your Project From Link .
+- a lot of developers can Access of Oroject at the same time.
+3-Does Git work at a local or remote level?
+ - it works at Local Repository.
+4- Why is Git useful for an individual developer?
+- from it you can Modify at files in GitHup and Manage it .
+
+5- Why are Git and GitHub useful for a team of developers?
+ -Git is a free, open-source, distributed version control system that handles source code changes in software projects of all sizes. Git allows multiple developers to work together on the same project with ease.
+On the other hand, GitHub is a company that offers a cloud-based repository allowing developers to store and manage their code and to track and control code changes. You can use Git without GitHub, but you can't use GitHub without Git.
+
+6-How do you create a new repository on GitHub?
+-Say you’ve just got some data from a collaborator and are about to start exploring it.
+
+Create a directory to contain the project.
+Go into the new directory.
+Type git init.
+Write some code.
+Type git add to add the files (see the typical use page).
+Type git commit.
+
+7-How do you copy a repository onto your local machine from GitHub?
+-Be able to use the git clone command to create a local version of a GitHub repository on your computer.
+
+8-What is the default name of your remote connection?
+- Creates a new connection to a remote repository. The "shortname" you provide can later be used instead of the URL when referencing the remote. A typical default shortname is "origin": this is used for the remote which your local repository was cloned from.
+9- Explain what origin is in git push origin main?
+ - Remote Repository
+10- Explain what main is in git push origin main?
+  - Name of branch.
+11-Explain the two-stage system that Git uses to save files?
+- You stage the files, adding snapshots of them to your staging area.
+  
+  
+
+
+
+
+
+
