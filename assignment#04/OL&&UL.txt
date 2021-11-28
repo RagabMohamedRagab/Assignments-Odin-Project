@@ -1,0 +1,12 @@
+1- What Html Tag is used to build unorderlist.
+   <ul>
+       <li>..</li>
+       <li>..</li>
+   </ul>
+2- What Html Tag is used to build orderlist.
+   <ol>
+       <li>..</li>
+       <li>..</li>
+   </ol>
+3-What HTML tag is used to create list items within both unordered and ordered lists?
+  <li>list item</li>
