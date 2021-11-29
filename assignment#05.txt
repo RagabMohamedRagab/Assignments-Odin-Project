@@ -1,0 +1,78 @@
+1- What are the main differences between external, internal, and inline CSS?
+  - By three ways we can add style to select Element .
+  - Extenal Style : it is External File that calls in index.html by using <link rel="" href=""/>
+  - Internal Style : To set Propert Style so using <style></style> inside <head></head> tag 
+  - inline style : it uses inside Elements Html by using style attribute <p style="propert:value">This is Paragarph </p>
+  - The Most effect is inline style => inline style > internal style > External Style.
+
+2- What is the syntax for class and ID selectors?
+  - class => it is not unique That means we can use class in a lot of class (.class)
+  - ID    => it is unique That means we can use id in only one class.(#Id)  
+3- How would you apply a single rule to two different selectors?
+  - by using Class .
+4- Given an element that has an id of title and a class of primary, how would you use both attributes for a single rule?
+  - <div id="title" class="primary"></div>
+    #title{}, .primary{}
+5- What does the descendant combinator do?
+  <div class="ancsetor">
+          <p class="descendant"></p>
+  </div>
+6- Between a rule that uses one class selector and a rule that uses three type selectors, which rule has the higher specificity? 
+  - Best performamcy is three type selector to know what is element that gives him style.
+7- How do you select a specific element on your page with your browser’s developer tools?
+  - by using Inspect . 
+8- What does a strikethrough in a CSS element mean in your browser’s developer tools?
+  - by using Propert Name is text-align And vlaue is center.
+9- How do you change CSS in real time on specific elements of a web page with your browser’s developer tools?
+  - overwrite at this element and take it copy past in External Style
+10 -From inside to outside, what is the order of box-model properties?
+   -  original width , Padding , Border , Margin 
+11 - What does the box-sizing CSS property do?
+  - it is increable property that is used to include Border , Padding From Origin Size Of The Element.
+12 -What is the difference between the standard and alternative box model?
+    - alternative box => using Property box-sizing :border-box.
+    - standard box   => Not using Property box-sizing :border-box.
+13- Would you use margin or padding to create more space between 2 elements?
+  - Margin, To make space between each elements.
+14 - Would you use margin or padding to create more space between the contents of an element and its border?
+   - Padding ,to create more space between the contents of an element.
+15 - Would you use margin or padding if you wanted two elements to overlap each other?
+   - Margin , overlap each elements.
+16 -What is the difference between a block element and an inline element?
+   Bolck => any element after it in a new line. Start A new Line
+   inline => any element after it the same line . didn't start A new line
+17 - What is the difference between an inline element and an inline-block element?
+   - inline => not start a new line
+   - line-block => not start a new line but it has some of margin around it .Not Line break
+18 - Is an h1 block or inline? 
+    - It is Block.
+19 - Is span block or inline?
+    - It is inline.
+20 - Is button block or inline?
+    - It is inline. 
+21 - Is div block or inline?
+    - It is Block.
+22 -What’s the difference between a flex container and a flex item?
+  - Flex Container is Parent .
+  - Flex item is Child.
+23 - How do you create a flex item?
+  - by using create parent and child is flex item.
+24 -What are the 3 values defined in the shorthand flex property (e.g. flex: 1 1 auto)?
+   - flex : 1 Flex grow , 1 Flex Shirnk , auto Flex basis.
+25 - How do you make flex items arrange themselves vertically instead of horizontally?
+   - by using property Flex-direction : column.
+26 -In a column flex-container, what does flex-basis refer to?
+   - it refers to resize flex item column.
+27 -  In a row flex-container, what does flex-basis refer to?
+   - it refers to resize flex item row
+28 -Why do the previous two questions have different answers?
+  - in horizontal and vertical.
+29 -What is the difference between justify-content and align-items?
+   - justify-content => main axis
+   - align-items => cross axis
+30 -How do you use flexbox to completely center a div inside a flex container?
+  - justify-content :center.
+  - align-items: center.
+31- What’s the difference between justify-content: space-between and justify-content: space-around?
+   - justify-content: space-between => it is justify content to be space between each item  in main axis.
+   - justify-content: space-around => it is justify content to be space ever where [start,Middle,End] in main axis.
