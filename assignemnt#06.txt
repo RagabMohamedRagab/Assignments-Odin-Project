@@ -1,0 +1,153 @@
+1- What are three different ways to declare a variable? 
+  - to declare variable in javascript we have three ways like var , let , const.
+2- How do you declare a variable?
+   - [Datatypes] [Identifier_variable]=[Value]
+3- Which one should you use when? 
+  - I Think the best way To declare Variable by using let, But I like to declare variable by using var
+4- What are the rules for naming variables?
+  - must be not having space or special charecteries.
+  - must be as camelcase or baskal 
+  - Never mind to use sign doller or hash.
+5- What are operators, operands, and operations?
+   - Operators => + , - , * , /
+   - oprands => Numbers (5,6,7,8)
+   - operations => Number1 + Number2
+6- What is concatenation and what happens when you add numbers and strings together?
+   - concatention => it is concat between string with any thing will convert to string => this is from ways to Explicitly type convertion.
+   - it will convert into string 
+7- What are the different types of operators in JavaScript?
+  - arithmatic operator.
+  - relational operator.
+  - logical operator.
+  - Ternary Operatotr.
+  - Assignemnt operator.
+  - Symbol Operator.
+8- What is the difference between == and ===?
+  -  equal => it compares between value not Datatypes.
+  -  trible equal => it compares between value and Datatypes.
+9 -What are operator precedence values?
+  - Increament , Decreament .
+10 - What are the increment/decrement operators?
+  - Increament => i++ , ++i (increament Number)
+  - Decreament => i--, --i (Decreament Number )
+11 -What is the difference between prefixing and post-fixing them?
+   - prefixing => ++i (Increament and Save And Use)
+   - PostFixing => i++ (Use and Increament And Save)
+12- What are assignment operators?
+  - That is used sm left side into right into left side
+13- What is the “Unary +” Operator?
+  - Unary Operator => it has one oprand And operator (i++,i--)
+14- Which of the three variable declarations should you avoid and why?
+   - Identifier variable mustn't be starting with any special charactries or Contains speace .
+15- What should you look out for when using the + operator with numbers and strings?
+  - it will convert this into string because we are created concat
+16- How does the % operator work?
+  - it is remainder or modles
+17- When would you receive a NaN result?
+  - it will appear when set undefined in your Operation undefined + 5 =NAN
+18- How do you increment and decrement a number?
+  - they have two ways to increament or Decreament (Post => Increament and save then use ,Per => use the increament and save)
+19- How do you access developer tools and the console?
+ - it command print some thing or I use it to test my execute code.
+20-How do you log information to the console?
+  - log() is static method from class Console.
+21- What does unary plus operator do to string representations of integers?
+  - when I used different operators
+22- Name the eight data types in JavaScript.
+   - number
+   - string
+   - boolean
+   - undefined
+   - symbol
+   - Function
+   - NAN
+   - object  
+23- Understand the difference between single, double, and backtick quotes.
+  - in javascript No different beween double and single and backtick.
+24- Embed a variable/expression in a string?
+ - by using double quotes.
+25- Define what a method is?
+  - it is mechinsme use to do something when you call it .
+26- Name the three logical operators.
+   - And &&
+   - Or ||
+   - Not !
+27- Understand what the comparison operators are?
+  - it is condtion give true or false (less than < , great than > ,less than or equal <= ,great than or equal >=, equal == , trible equal ===, Not equal =! )
+28- Understand what conditionals are.
+  - that has two expration left and Right between them logical operators and gives true or false
+29- Understand what nesting is
+  - that means something inside something.
+30 - Understand what truthy and falsy values are?
+  - These mean truthy able to pass otherwise not pass.
+31- Which data type is NOT primitive?
+  - object
+  - Array
+  - Function
+  - Symbol()
+32- What is the relationship between null and undefined?
+  - they are not having Values 
+  - undefined => it is not assign
+  - null => it value with assign by value null.
+33-How do you escape characters in a string? 
+  - by using backslash "\"
+34- What is the difference between slice/substring/substr?
+   - all of them get part from string 
+   - slice Accept Naigitive Number , The first Agrgument is Less than second Arguement, Exclude last index ;
+   - substring  Not Accept Naigitive Number , Never Mind The first Agrgument is Less than second Arguement otherwise it want to swap , Exclude last index
+   - substr it is not recoginze it different in overload (start , length)
+35- What is the syntax for an if/else conditional?
+     -if(condtion)
+         {
+           // Code
+         }else
+         {
+           // code
+         }
+          
+36- What is the syntax for a switch statement?
+     switch(experssion | condtion)
+       { 
+            case 0:
+                   break;
+             default :
+                   break;
+        }
+37- What is the syntax for a ternary operator?
+   - const variable=(constion)?true:false
+38- How do you invoke a function?
+   - by using name of function.
+39- What are anonymous functions?
+  - That is funtion without Name .
+40 -What is function scope?
+  - it is like body of function.
+41 -What are return values?
+  - it used to out from body of function or scope of function.
+42 -What are arrow functions?
+  - that is new feature introuduce in es6 it used to convert multi line of functionscope into inline statement function .
+43- Explain the three steps in the problem solving process.
+   - Thinking 
+   - Pesduo code
+   - flowchart
+   - code
+44- Explain what pseudo code is and be able to use it to solve problems.
+  - it used to Explain what are you doing when you want to write code.
+45- What is an array?
+  - Array is Acollection of items from different data types.
+46- What are arrays useful for?
+    - it will have collection of items .
+47- How do you access an array element?
+ - by using Address.
+48- How do you change an array element?
+  - by assignment this index.
+49- What are some useful array properties?
+  - length 
+50 - What are some useful array methods?
+  - Push(),Pop()
+51- What are loops useful for?
+ - iterate at collections.
+52- What is the break statement?
+  - out from scope
+53- What is the continue statement?
+   - skipe this implemention only.
+54- 
