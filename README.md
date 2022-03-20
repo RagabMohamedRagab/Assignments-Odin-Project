@@ -1,5 +1,5 @@
 # Curriclum Of Odin Project
- - Git 
+ - Git| GitHups
  - Html
  - Css
  - javascript
